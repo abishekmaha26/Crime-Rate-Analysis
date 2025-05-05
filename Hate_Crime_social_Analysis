@@ -1,1 +1,6 @@
+In this analysis i had preprocessed the data having over 200 rows. 
 
+Checked for
+--Missing values
+--Checking duplicates
+--Treating anomalies
